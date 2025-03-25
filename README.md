@@ -41,5 +41,6 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 ![alt text](<Screenshot 2025-03-23 170652.png>)
+![alt text](flowchart.png)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
